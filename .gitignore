@@ -1,0 +1,27 @@
+# npm
+node_modules
+package-lock.json
+*.log
+*.gz
+logs
+tmp
+
+# yarn
+yarn.lock
+
+# Coverage reports
+coverage
+
+#API keys and secrets
+.env
+
+# Editors
+.idea
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# built files
+dist/**/*
+
